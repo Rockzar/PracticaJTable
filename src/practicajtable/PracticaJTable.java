@@ -1,4 +1,3 @@
-
 package practicajtable;
 
 import java.util.ArrayList;
@@ -22,7 +21,6 @@ public class PracticaJTable extends AbstractTableModel{
        fila[1] = "Martinez";
        fila[2] = new Integer(29);
        fila[3] = "Basket";
-       fila[4] = "Valencia";
                 
     }
     

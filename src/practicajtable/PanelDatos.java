@@ -35,8 +35,6 @@ public class PanelDatos extends javax.swing.JPanel {
         nombre = new javax.swing.JTextField();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
-        jLabel3 = new javax.swing.JLabel();
-        jLabel4 = new javax.swing.JLabel();
         jLabel5 = new javax.swing.JLabel();
         apellido = new javax.swing.JTextField();
         edad = new javax.swing.JTextField();

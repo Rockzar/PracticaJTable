@@ -1,4 +1,3 @@
-
 package practicajtable;
 
 import java.util.ArrayList;
@@ -79,7 +78,7 @@ public class PracticaJTable extends AbstractTableModel{
         fireTableDataChanged();
     }
     
-    public void removeRow (int fila){
+    public void removeRow (Sting fila){
         datos.remove(fila);
         fireTableDataChanged();
     }
